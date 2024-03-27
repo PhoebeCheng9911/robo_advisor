@@ -5,4 +5,6 @@ A simple RoboAdvisor created using AWS Lambda and Lex. The goal of the project i
 
 ## Demo 
 
-https://youtu.be/Vk2q_qMrtJM
+
+https://github.com/PhoebeCheng9911/RoboAdvisor/assets/90079020/cbc78d02-0a15-41ce-874c-55dc255a6e06
+
